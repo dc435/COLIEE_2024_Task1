@@ -1,0 +1,1 @@
+The fine-tuned t5 model will be saved into this directory.
